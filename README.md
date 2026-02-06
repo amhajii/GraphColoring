@@ -8,6 +8,8 @@
 
 ---
 
+[MainFile](https://github.com/amhajii/GraphColoring/blob/main/GraphColoring.cpp)
+
 ## 📝 Problem Statement
 
 The objective is to assign colors to the vertices of a graph such that no two adjacent vertices share the same color. The algorithm calculates the minimum number of colors required to achieve this.
