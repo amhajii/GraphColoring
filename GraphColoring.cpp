@@ -6,7 +6,7 @@ PROJECT: GRAPH COLORING PROBLEM
 . professor: Dr. Mina Masoudifar
 . Course: Algorithms design
 
-. GitHub Repository: https://github.com/amhajii/GraphColoring.git
+. GitHub Repository: https://github.com/amhajii/GraphColoring
 
 ==============================================================================
 
